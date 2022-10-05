@@ -5,9 +5,9 @@
   "apps": [
     {
       "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.SideStore",
+      "bundleIdentifier": "com.SideStore.AltStore",
       "developerName": "Side Team",
-      "version": "1.5.1",
+      "version": "1.5.1b",
       "versionDate": "2022-07-14T12:00:00-05:00",
       "versionDescription": "This update fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps\n• Potential crash when receiving unknown error codes from AltServer",
       "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
