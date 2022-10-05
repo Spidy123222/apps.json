@@ -4,7 +4,7 @@
   "sourceURL": "https://raw.githubusercontent.com/Spidy123222/apps.json/main/app.json",
   "apps": [
     {
-      "name": "SideStore",
+      "name": "Altstore",
       "bundleIdentifier": "com.SideStore.AltStore",
       "developerName": "Side Team",
       "version": "1.5.1b",
@@ -35,7 +35,7 @@
   "news": [
     {
       "title": "Rick on the rocks",
-      "identifier": "no",
+      "identifier": "rick",
       "caption": "never gonna give ya rocks",
       "tintColor": "912F8D",
       "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
