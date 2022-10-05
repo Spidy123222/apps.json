@@ -1,11 +1,11 @@
 {
-  "name": "AltStore",
+  "name": "SideStore Offical",
   "identifier": "com.SideStore.AltStore",
   "sourceURL": "https://raw.githubusercontent.com/Spidy123222/apps.json/main/app.json",
   "apps": [
     {
       "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.AltStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "Side Team",
       "version": "1.5.1b",
       "versionDate": "2022-07-14T12:00:00-05:00",
