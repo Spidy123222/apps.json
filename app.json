@@ -1,7 +1,7 @@
 {
   "name": "SideStore Official",
   "identifier": "com.SideStore.AltStore",
-  "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
+  "sourceURL": "https://github.com/Spidy123222/apps.json/blob/main/app.json",
   "apps": [
     {
       "name": "SideStore",
